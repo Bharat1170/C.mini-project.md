@@ -1,4 +1,4 @@
-# C.mini-project.md
+# C.mini-project.md//program to find the difference between the two particular dates.
 
 
 #include<stdio.h> // include stdio.h library
